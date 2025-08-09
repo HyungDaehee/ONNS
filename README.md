@@ -108,7 +108,8 @@ ONNS/
   ### [OOTD 페이지]
   - OOTD 페이지는 사용자들이 자신의 코디를 자유롭게 공유하고 소통할 수 있는 공간입니다.
   - 사용자는 현재 날씨에 맞는 옷차림을 더 정확히 찾기 위해 필터 기능을 사용할 수 있습니다.
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/5b40ffa2-f429-4b7e-b8a7-749cf8935734" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a367f602-b70d-4708-bdfa-8d5140abd3ea" />
+
 
   
 - **계절별 필터 기능**
@@ -117,7 +118,10 @@ ONNS/
   - 게시글의 **생성 월**을 기준으로, 해당 **월**이 속하는 **계절**에 따라 분류됩니다.
   - **기본값**으로 필터가 적용되며, **현재 월*** 기준으로 자동 적용됩니다. (ex)6,7,8월 → 여름)
 
- 
+<img width="430" height="932" alt="image" src="https://github.com/user-attachments/assets/9d46b175-b812-4acf-b039-a3f92b241360" />
+
+<br>
+
 - **온도별 필터 기능**
   - **세분화된 온도 범위** 제공 이를 통해 **해당 계절에 맞는 다양한 온도대의 코디 정보**를 구체적으로 확인 할 수 있습니다.
   - **계절의 상태**에 따라 기준 온도가 다르게 설정 됨
@@ -125,20 +129,28 @@ ONNS/
     - 여름: 전체, 20–24, 25–29, 30~
     - 겨울: 전체, 0–4, -5 ~ -1, ~(-6)
     - 기타(기본값): 전체
+<img width="430" height="932" alt="image" src="https://github.com/user-attachments/assets/c95008ef-2b5a-4bb1-bbfd-58d48237a342" />
+
+<br>
 
 - **최신순 기능**
-  - **모든 필터**가 **최신순 정렬**로 설정되어 있어, 가장 **최근**에 업로드된 **게시글**부터 확인할 수 있습니다
+  - **모든 필터**가 **최신순 정렬**로 설정되어 있어, 가장 **최근**에 업로드된 **게시글**부터 확인할 수 있습니다.
+  <img width="425" height="949" alt="image" src="https://github.com/user-attachments/assets/f33e9b9a-1a56-471b-988d-61916b96b4f3" />
 
+  <br>
+  
 - **인기순 기능**
   - **사용자들**이 누른 **‘좋아요 수’** 를 기준으로 정렬
   - **좋아요 수**가 같은 **게시글**끼리는 **최신순**을 기준으로 다시 **정렬**되어 **가장 최근에 업로드된 게시글**부터 확인 할 수 있습습니다.
- 
+ <img width="427" height="945" alt="image" src="https://github.com/user-attachments/assets/88d6174f-146c-4700-a25e-bcac50bafd47" />
+
 <br>
 
 ### [상세 페이지]
 - **메인 페이지**와 **OOTD 페이지**에서 게시글이나 이미지를 클릭하면 해당 게시글의 **상세 페이지**로 이동합니다.
 - 상세 페이지에서는 **작성자 이름과 프로필, 첨부 이미지, 좋아요 수, 댓글 수, 본문 내용, 댓글 및 대댓글**을 확인할 수 있습니다.
 - **댓글 작성자 ID**와 **현재 사용자 ID**가 일치할 경우, 해당 댓글을 삭제할 수 있도록 구현하였습니다.
+<img width="428" height="953" alt="image" src="https://github.com/user-attachments/assets/65e7fdbb-eae1-427c-86ba-217459aa2cb8" />
 
 
 <br>
@@ -147,9 +159,9 @@ ONNS/
 
 ### [글 작성 기능]
 - **우측 하단 플로팅 버튼** 클릭 시 **글 작성 페이지**로 이동합니다.
-- **사용자 입력 항목**: 이미지(필수), 내용
+- **사용자 입력 항목**: 이미지(필수), 내용(필수) 500자 이내 이미지, 내용을 입력하지 않으면 글 등록 버튼이 활성화가 되지 않습니다.
 - **자동 저장 항목**: 체감온도, 사용자 ID, 생성일
-
+<img width="430" height="932" alt="image" src="https://github.com/user-attachments/assets/431014bc-d45e-4c25-a7b5-713dac62c56b" />
 <br>
 
 ---
