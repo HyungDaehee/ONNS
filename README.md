@@ -48,7 +48,7 @@
 | 송가은    | gn-ioeo   | 로그인 기능 / 회원 관리(생성,삭제)/ 알림 기능 / 좋아요 기능  |
 | 송진호    | jaino-song    | 마이페이지 / 게시글 조건 조회 / API 설계  | 회원관리 (수정, 조회)
 | 신주현    | Shin363   | 메인 페이지 / 댓글 관리 기능 / OpenWeather API, GeoLocation API 도입   |
-| 형대희    | HyungDaehee   | OOTD / 게시글 조회 기능 / 필터 기능 / 게시글 기능    |
+| 형대희    | HyungDaehee   | OOTD / 게시글 조회 기능 / 필터 기능 / 게시글 조회(상세), 삭제 기능    |
 
 ---
 
